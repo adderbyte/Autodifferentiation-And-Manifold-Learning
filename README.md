@@ -7,4 +7,4 @@ As discussed in this paper [Automatic Differentiation](https://arxiv.org/pdf/150
 ## Manifold learning
 ------------------------
 
-Comming soon
+Coming soon
